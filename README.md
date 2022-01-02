@@ -21,14 +21,14 @@ boston house prediction using regression
         -----------------------------------------------------------------------
         
         Libraries
-pandas
-matplotlib
-seaborn
-scikit-learn
-Algorithms
-Linear Regression
-Decision Tree
-Random Forest
-Extra Tress
-XGBoost
-Mean Squared Error: 10.0
+        pandas
+        matplotlib
+        seaborn
+        scikit-learn
+        Algorithms
+        Linear Regression
+        Decision Tree
+        Random Forest
+        Extra Tress
+        XGBoost
+        Mean Squared Error: 10.0
